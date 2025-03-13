@@ -9,7 +9,7 @@ pipenv shell
 pip instal -r requirements.txt
 ```
 
-##Run streamlit app
+## Run streamlit app
 ```
 streamlit run dashboard.py
 ```
